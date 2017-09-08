@@ -6,4 +6,4 @@ Practicas y ejercicios de programación realizados durante el curso academico 20
 
 Cualquier bug se puede indicar en diegojuarez_13@hotmail.com
 # Errores PracticaFinal
-Mejorar en el prompt nombre del fichero
+ * Mejorar en el prompt nombre del fichero
